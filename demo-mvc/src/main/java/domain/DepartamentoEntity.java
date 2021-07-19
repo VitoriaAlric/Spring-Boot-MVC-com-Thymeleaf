@@ -1,4 +1,4 @@
-package com.mballe.curso.boot.domain;
+package domain;
 
 import java.util.List;
 

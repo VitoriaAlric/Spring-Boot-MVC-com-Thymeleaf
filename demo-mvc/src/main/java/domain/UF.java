@@ -1,4 +1,4 @@
-package com.mballe.curso.boot.domain;
+package domain;
 
 public enum UF {
 	AC("AC", "Acre"), 

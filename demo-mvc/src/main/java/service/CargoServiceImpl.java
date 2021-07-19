@@ -1,4 +1,4 @@
-package com.mballe.curso.boot.service;
+package service;
 
 import java.util.List;
 
@@ -6,9 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.mballe.curso.boot.domain.CargoEntity;
-
 import dao.CargoDao;
+import domain.CargoEntity;
 
 @Service
 @Transactional(readOnly = false)

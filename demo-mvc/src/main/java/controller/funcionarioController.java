@@ -1,23 +1,25 @@
-package com.mballe.curso.boot.web.controller;
+package controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-@RequestMapping("/departamentos")
-public class departamentoController {
+@RequestMapping("/funcionarios")
+public class funcionarioController {
 	
 	@GetMapping("/cadastrar")
 	public String cadastrar() {
-		return "/departamento/cadastro";
+		return "/funcionario/cadastro";
 				
 		
 	}
 	@GetMapping("/listar")
 	public String listar() {
-		return "/departamento/lista";
+		return "/funcionario/lista";
 				
 		
 	}
 }
+
+

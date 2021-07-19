@@ -2,7 +2,7 @@ package dao;
 
 import java.util.List;
 
-import com.mballe.curso.boot.domain.DepartamentoEntity;
+import domain.DepartamentoEntity;
 
 public interface DepartamentoDao {
 	

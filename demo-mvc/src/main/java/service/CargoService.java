@@ -1,8 +1,8 @@
-package com.mballe.curso.boot.service;
+package service;
 
 import java.util.List;
 
-import com.mballe.curso.boot.domain.CargoEntity;
+import domain.CargoEntity;
 
 public interface CargoService {
 	

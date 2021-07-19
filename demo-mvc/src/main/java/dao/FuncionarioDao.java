@@ -2,7 +2,7 @@ package dao;
 
 import java.util.List;
 
-import com.mballe.curso.boot.domain.FuncionarioEntity;
+import domain.FuncionarioEntity;
 
 public interface FuncionarioDao {
 
