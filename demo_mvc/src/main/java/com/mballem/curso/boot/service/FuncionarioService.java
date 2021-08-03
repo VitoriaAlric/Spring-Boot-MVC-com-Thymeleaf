@@ -16,3 +16,4 @@ public interface FuncionarioService {
 
     List<Funcionario> buscarTodos();
 }
+//
