@@ -16,3 +16,4 @@ public interface FuncionarioDao {
 
     List<Funcionario> findAll();
 }
+//

@@ -1,4 +1,4 @@
-package com.mballem.curso.boot.dao;
+package com.mballem.curso.boot.dao; //
 
 import java.io.Serializable;
 import java.lang.reflect.ParameterizedType;
@@ -54,5 +54,5 @@ public abstract class AbstractDao<T, PK extends Serializable> {
 		    query.setParameter(i+1, params[i]);
         }
     	return query.getResultList();
-	}
+	} 
 }
