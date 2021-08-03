@@ -78,4 +78,3 @@ public class Funcionario extends AbstractEntity<Long> {
 		this.cargo = cargo;
 	}
 }
-//

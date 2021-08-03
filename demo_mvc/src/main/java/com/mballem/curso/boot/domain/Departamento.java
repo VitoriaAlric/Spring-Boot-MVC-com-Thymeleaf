@@ -31,4 +31,3 @@ public class Departamento extends AbstractEntity<Long> {
 		this.cargos = cargos;
 	}
 }
-//

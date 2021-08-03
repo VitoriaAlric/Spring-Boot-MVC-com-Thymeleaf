@@ -84,4 +84,3 @@ public class Endereco extends AbstractEntity<Long> {
 		this.complemento = complemento;
 	}
 }
-//
