@@ -18,4 +18,3 @@ public interface DepartamentoService {
 
 	boolean depertamentoTemCargos(Long id);
 }
-//

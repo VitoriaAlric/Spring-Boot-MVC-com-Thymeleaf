@@ -42,4 +42,3 @@ public class CargoServiceImpl implements CargoService {
 		return dao.findAll();
 	}
 }
-//

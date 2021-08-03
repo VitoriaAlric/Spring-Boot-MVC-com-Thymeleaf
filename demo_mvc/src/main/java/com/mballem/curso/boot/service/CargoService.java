@@ -16,4 +16,3 @@ public interface CargoService {
 	
 	List<Cargo> buscarTodos();
 }
-//
