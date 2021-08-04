@@ -1,5 +1,5 @@
 package com.mballem.curso.boot.dao;
-//
+
 import java.util.List;
 
 import com.mballem.curso.boot.domain.Cargo;
