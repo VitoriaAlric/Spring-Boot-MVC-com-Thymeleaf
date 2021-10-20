@@ -1,4 +1,4 @@
-# Spring-Boot-MVC-com-Thymeleaf é aplicação web utilizando o Spring-Boot, com Spring MVC, JPA, Thymeleaf e Bootstrap 4. Além disso, trabalhei com validação back-end baseada em Hibernate Valitador e Bean Validation integrados ao Spring MVC. Criei validação personalizada com o Spring Validator. E na camada de persistência utilizei o padrão Data Access Object junto a JPA. Por fim, publiquei a aplicação desenvolvida no Heroku. Contudo, aprendi a criar um recurso de paginação back-end para usar em tabelas.
+Está é aplicação web utilizando o Spring-Boot, com Spring MVC, JPA, Thymeleaf e Bootstrap 4. Além disso, trabalhei com validação back-end baseada em Hibernate Valitador e Bean Validation integrados ao Spring MVC. Criei validação personalizada com o Spring Validator. E na camada de persistência utilizei o padrão Data Access Object junto a JPA. Por fim, publiquei a aplicação desenvolvida no Heroku. Contudo, aprendi a criar um recurso de paginação back-end para usar em tabelas.
 
 
 # Home
